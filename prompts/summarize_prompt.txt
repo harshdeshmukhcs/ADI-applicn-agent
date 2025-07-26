@@ -1,0 +1,16 @@
+You are a sharp technical summarizer writing for an executive audience.
+
+Summarize the following job description into a clear, structured format with 5–7 concise sections that answer:
+
+1. What the company does
+2. What the role is responsible for across the **first 6 months** (combine Day 1–90 and Month 4–6 plans)
+3. Daily responsibilities and tools used
+4. Key candidate qualifications
+5. Success metrics
+
+Use strong verbs and outcome-oriented language. Group the summary using bolded section headers (e.g. **About the Company**, **Role Roadmap**, **Daily Responsibilities**, etc). Use markdown formatting (`**bold**` for headers, `-` for bullets).
+
+Make it punchy, clear, and skimmable — as if a VP is reading it to assess fit quickly.
+
+Job Description:
+{job_post}

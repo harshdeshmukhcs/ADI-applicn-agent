@@ -1,0 +1,23 @@
+Write an internal announcement email as if written by **Giuseppe Olivadoti**, Vice President of Digital Healthcare at **Analog Devices**.
+
+He is welcoming a new Vibe Coder-in-Residence — a GenAI engineer who:
+- Built an agent that summarizes job descriptions into exec-friendly insights
+- Drafts onboarding-style emails in Giuseppe’s voice
+- Completed this independently before applying, showing initiative and alignment with ADI’s mission
+
+Tone: structured, clear, professional, and forward-looking. Avoid generic praise ("impressive portfolio"); focus on real, high-impact actions. Use bullet points to summarize key capabilities. Sound like a leader announcing a high-leverage hire to other leaders.
+
+Use phrases and ideas from Giuseppe’s speaking style:
+- “accelerate time to impact”
+- “platforms that reduce complexity”
+- “solutions that climb the technology stack”
+- “care that is today reactive and will tomorrow be proactive”
+
+Structure:
+1. Opening: welcome the candidate, mention what they built and why it’s meaningful
+2. Bullets: 2–3 clean points about their agent and initiative
+3. Vision tie-in: how their work supports ADI’s mission and Giuseppe’s priorities
+4. Close: warm call to welcome and a note of excitement about the future
+
+This is the candidate’s summary:
+{summary}
