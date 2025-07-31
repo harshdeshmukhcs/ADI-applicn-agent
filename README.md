@@ -1,6 +1,6 @@
-# Vibe Agent — Analog Devices GenAI Challenge Submission
+# Analog Devices GenAI Challenge Submission
 
-This project is a GenAI agent designed to summarize job descriptions and generate onboarding emails in the tone and structure of a real Analog Devices executive — specifically, Giuseppe Olivadoti, VP of Digital Healthcare.
+This project is a GenAI agent designed to summarize the job descriptions and generate onboarding emails in the tone and structure of a real Analog Devices executive — specifically, Giuseppe Olivadoti, VP of Digital Healthcare.
 
 It was built as a submission for the **Vibe Coder-in-Residence (GenAI Tech EA)** role at Analog Devices.
 
@@ -64,3 +64,20 @@ analog-devices-agent/
 
 
   The generated output will be saved in example_output/.
+
+  ## 🌐 Frontend UI + Hosting
+
+     - This agent is integrated into a full-stack frontend, deployed here:
+
+    ## 🔗 Live Demo: https://edge-ai-agent.vercel.app/
+
+    - Frontend: Built with React + TailwindCSS + ShadCN UI, deployed on Vercel
+
+    - Backend API: The GenAI agent (agent.py) is deployed separately on Railway
+
+    - Uses a clean UI to paste job descriptions and display the generated content live
+
+    - The UI mimics a real Analog Devices internal tool for executive support.
+
+
+    ## Thank You!
